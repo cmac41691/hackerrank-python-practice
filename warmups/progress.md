@@ -1,19 +1,14 @@
-## 2025-12-30
+## 2025-12-31
 
 ### Solved
-- Say "Hello, World!" With Python
-- Print Function
-- Arithmetic Operators
+- Python Division
 
 ### Concepts Reinforced
-- Reading input from STDIN
-- Integer arithmetic (+, -, *)
-- Conditional logic with if / elif / else
-- Exact output formatting for automated judges
+- Difference between integer division (`//`) and float division (`/`)
+- Reading multiple inputs from STDIN
+- Printing results on separate lines as required by the judge
 
 ### Notes
-- HackerRank wording looks complex but tasks are simple.
-- Key detail: output formatting must match exactly.
-- `print(..., end="")` prints on the same line.
-- Earned first Python star badge.
-
+- In Python 3, `/` always returns a float.
+- `//` performs floor (integer) division.
+- Understanding operators prevents silent logic bugs.
