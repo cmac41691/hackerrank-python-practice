@@ -32,3 +32,22 @@
 - `range(n)` excludes `n` by design.
 - Each loop iteration maps directly to one output line.
 - Googling syntax is part of real-world problem solving.
+
+
+## 2026-01-02
+
+### Solved
+- Write a Function (Leap Year)
+
+### Concepts Reinforced
+- Defining and returning values from functions
+- Boolean logic with multiple conditional branches
+- Using modulo (`%`) for divisibility checks
+- Early returns to simplify logic
+- Translating real-world rules into code
+
+### Notes
+- Order of conditions matters when rules overlap.
+- `return` exits the function immediately.
+- Writing readable conditionals prevents logical bugs.
+- This problem mirrors real business-rule logic.
