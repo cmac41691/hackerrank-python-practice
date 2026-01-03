@@ -51,3 +51,22 @@
 - `return` exits the function immediately.
 - Writing readable conditionals prevents logical bugs.
 - This problem mirrors real business-rule logic.
+
+
+
+## 2026-01-03
+
+### Solved
+- List Comprehensions (3D Coordinates)
+
+### Concepts Reinforced
+- Nested iteration using list comprehensions
+- Mapping multiple dimensions into a single list
+- Filtering results with conditional logic
+- Translating nested loops into comprehensions
+- Lexicographic ordering via loop structure
+
+### Notes
+- Built solution using nested loops first, then refactored.
+- List comprehensions improve readability once logic is clear.
+- This problem reinforces thinking in Cartesian products.
