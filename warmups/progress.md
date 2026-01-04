@@ -70,3 +70,21 @@
 - Built solution using nested loops first, then refactored.
 - List comprehensions improve readability once logic is clear.
 - This problem reinforces thinking in Cartesian products.
+
+
+## 2026-01-04
+
+### Solved
+- Find the Runner-Up Score
+
+### Concepts Reinforced
+- Removing duplicates using `set()`
+- Finding max and second max values
+- Translating problem statements into clear logic
+- Writing Python that reads like English
+
+### Notes
+- `set()` simplifies problems involving uniqueness.
+- Removing the maximum allows easy access to the runner-up.
+- This solution mirrors real-world data filtering logic.
+
