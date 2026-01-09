@@ -88,3 +88,18 @@
 - Removing the maximum allows easy access to the runner-up.
 - This solution mirrors real-world data filtering logic.
 
+
+### 2026-01-09
+**Solved**
+- Nested Lists (Second Lowest Grade)
+
+**Concepts Reinforced**
+- Nested lists
+- Data extraction
+- `set()` for deduplication
+- Sorting with conditions
+- Writing readable Python
+
+**Notes**
+- Broke problem into clear phases: input → extract → filter → output
+- Python reads like plain English when logic is structured well
