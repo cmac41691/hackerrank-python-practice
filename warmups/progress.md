@@ -103,3 +103,19 @@
 **Notes**
 - Broke problem into clear phases: input → extract → filter → output
 - Python reads like plain English when logic is structured well
+### 2026-01-17
+
+**Solved**
+- Finding the Percentage (Dictionary + Average)
+
+**Concepts Reinforced**
+- Dictionaries (`key: value` storage)
+- Parsing input with `split()`
+- Mapping strings to floats
+- Calculating averages with `sum()` and `len()`
+- Formatting output to 2 decimal places
+
+**Notes**
+- Broke the problem into clear phases: input → store → query → calculate → format output
+- Logic was understood early; syntax came together through iteration
+- Reinforced how Python can read like plain English when structured well
