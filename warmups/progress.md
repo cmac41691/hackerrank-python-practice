@@ -119,3 +119,18 @@
 - Broke the problem into clear phases: input → store → query → calculate → format output
 - Logic was understood early; syntax came together through iteration
 - Reinforced how Python can read like plain English when structured well
+
+### 2026-02-02
+**Solved**
+- Lists (Command-based list operations)
+
+**Concepts Reinforced**
+- Parsing command input with split()
+- Mapping commands to list methods
+- Stateful list mutation
+- Defensive handling of all required operations
+
+**Notes**
+- Missed `pop` initially → hidden test failure
+- Reinforced importance of fully reading problem specs
+- Problem maps closely to CRUD-style command processing
